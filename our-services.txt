@@ -1,0 +1,7 @@
+Our Service:
+
+1. GPS Tracking: Real-time tracking of bike taxis to provide accurate arrival times.
+2. Booking System: Easy-to-use interface for booking rides.
+3. Secure Payments: Multiple payment options, including mobile money and credit/debit cards.
+4. Safety Measures: Driver verification, emergency contact features, and in-app safety tips.
+5. Ride Ratings: Users can rate their rides, helping maintain high service standards.
