@@ -1,0 +1,10 @@
+Xhina Safe Ride mission is to provide safe, affordable, and efficient bike taxi services in Lagos, leveraging technology to enhance urban mobility.
+
+Our Vision:
+To revolutionize urban transportation in Nigeria, making it more accessible and reliable for everyone.
+
+Problem:
+Lagos faces significant traffic congestion, making daily commutes long and stressful. Public transportation options are often overcrowded and unreliable, and traditional taxis can be expensive and difficult to find.
+
+Solution:
+RideSafe is a mobile app that connects commuters with safe and affordable bike taxis. By leveraging GPS and real-time data, RideSafe optimizes routes to reduce wait times and ensures a smooth, efficient ride.
